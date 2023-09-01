@@ -2,7 +2,7 @@
 
 The Weather App is a simple web application that allows users to retrieve and display weather information for a specific city.
 
-![Git-user Detective Preview](./assets/preview.png)
+![Weather app Preview](./assets/preview.png)
 
 ## Features
 
